@@ -6,21 +6,16 @@
 
 </div>
 
----
+## GitHub Metrics
 
--- GitHub Metrics --
+<p align="center">
+  <img alt="GitHub Metrics" src="github-metrics.svg" />
+</p>
 
-<img alt="GitHub Metrics" src="github-metrics.svg" />
-
----
-
--- Contribution Snake --
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TBNLZLDYD/TBNLZLDYD/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TBNLZLDYD/TBNLZLDYD/output/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/TBNLZLDYD/TBNLZLDYD/output/github-snake.svg" />
 </picture>
-
----
-
