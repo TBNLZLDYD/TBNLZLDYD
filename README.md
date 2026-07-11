@@ -10,11 +10,7 @@
 
 -- GitHub Metrics --
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-metrics-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-metrics.svg" />
-  <img alt="GitHub Metrics" src="github-metrics.svg" />
-</picture>
+<img alt="GitHub Metrics" src="github-metrics.svg" />
 
 ---
 
