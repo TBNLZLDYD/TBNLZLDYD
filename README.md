@@ -8,12 +8,6 @@
 
 ---
 
--- Tech Stack --
-
-![My Skills](https://skillicons.dev/icons?i=ts,py,go,react,fastapi,electron,nodejs,git,githubactions&theme=light)
-
----
-
 -- GitHub Metrics --
 
 <picture>
